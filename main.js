@@ -1,3 +1,8 @@
+/*
+	Author: Behnam Azizi
+	Date: Sep. 19, 2014
+	
+*/
 $(document).ready(function(){
 	var canvas = document.getElementById("gameCanvas");
 

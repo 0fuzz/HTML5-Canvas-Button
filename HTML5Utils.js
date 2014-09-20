@@ -1,3 +1,9 @@
+/*
+   Author: Behnam Azizi
+   Date: Sept. 19, 2014
+
+*/
+
 document.getElementsByTagName('head')[0].innerHTML += "<img src=\"button.png\" id=\"bttnImage\"></img>\n";
 document.getElementsByTagName('head')[0].innerHTML += "<img src=\"button_over.png\" id=\"bttnImageOver\"></img>\n";
 document.getElementsByTagName('head')[0].innerHTML += "<img src=\"button_pushed.png\" id=\"bttnImagePushed\"></img>\n";
